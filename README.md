@@ -1,2 +1,2 @@
 # practice-autopkg
-Playing with autopkg - Don't USE!
+Playing with autopkg - Ready for careful testing.
