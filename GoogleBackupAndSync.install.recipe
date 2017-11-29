@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads latest Google Backup And Sync disk image and installs Google Backup And Sync.</string>
+    <string>Downloads latest Google Backup and Sync disk image and installs Google Backup and Sync.</string>
     <key>Identifier</key>
     <string>com.github.autopkg.install.installbackupandsync</string>
     <key>Input</key>

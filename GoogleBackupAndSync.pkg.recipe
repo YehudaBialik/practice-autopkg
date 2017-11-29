@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>GoogleBackupAndSync</string>
+        <string>GoogleBackupandSync</string>
     </dict>
     <key>ParentRecipe</key>
     <string>com.github.autopkg.download.installbackupandsync</string>

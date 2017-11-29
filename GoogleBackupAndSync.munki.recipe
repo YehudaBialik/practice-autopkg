@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest Google Backup And Sync disk image and imports into Munki.</string>
+    <string>Downloads the latest Google Backup and Sync disk image and imports into Munki.</string>
     <key>Identifier</key>
     <string>com.github.autopkg.munki.installbackupandsync</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>GoogleBackupAndSync</string>
+        <string>GoogleBackupandSync</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>apps</string>
         <key>pkginfo</key>
@@ -21,7 +21,7 @@
             <key>description</key>
             <string>Back up files from your computer, camera, or SD cards to the cloud. Find your files on any device or computer using Google Drive, and see your photos in Google Photos.</string>
             <key>display_name</key>
-            <string>Google Backup And Sync</string>
+            <string>Google Backup and Sync</string>
             <key>name</key>
             <string>%NAME%</string>
             <key>unattended_install</key>
