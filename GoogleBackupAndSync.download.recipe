@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>Google Backup and Sync</string>
+        <string>GoogleBackupAndSync</string>
         <key>DOWNLOAD_URL</key>
         <string>https://dl.google.com/drive/InstallBackupAndSync.dmg</string>
     </dict>
